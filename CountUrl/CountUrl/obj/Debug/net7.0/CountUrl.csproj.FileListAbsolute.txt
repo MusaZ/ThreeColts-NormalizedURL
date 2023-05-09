@@ -1,0 +1,15 @@
+C:\Users\Dijital&Kafa\source\repos\CONSOLE\CountUrl\CountUrl\bin\Debug\net7.0\CountUrl.exe
+C:\Users\Dijital&Kafa\source\repos\CONSOLE\CountUrl\CountUrl\bin\Debug\net7.0\CountUrl.deps.json
+C:\Users\Dijital&Kafa\source\repos\CONSOLE\CountUrl\CountUrl\bin\Debug\net7.0\CountUrl.runtimeconfig.json
+C:\Users\Dijital&Kafa\source\repos\CONSOLE\CountUrl\CountUrl\bin\Debug\net7.0\CountUrl.dll
+C:\Users\Dijital&Kafa\source\repos\CONSOLE\CountUrl\CountUrl\bin\Debug\net7.0\CountUrl.pdb
+C:\Users\Dijital&Kafa\source\repos\CONSOLE\CountUrl\CountUrl\obj\Debug\net7.0\CountUrl.csproj.AssemblyReference.cache
+C:\Users\Dijital&Kafa\source\repos\CONSOLE\CountUrl\CountUrl\obj\Debug\net7.0\CountUrl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dijital&Kafa\source\repos\CONSOLE\CountUrl\CountUrl\obj\Debug\net7.0\CountUrl.AssemblyInfoInputs.cache
+C:\Users\Dijital&Kafa\source\repos\CONSOLE\CountUrl\CountUrl\obj\Debug\net7.0\CountUrl.AssemblyInfo.cs
+C:\Users\Dijital&Kafa\source\repos\CONSOLE\CountUrl\CountUrl\obj\Debug\net7.0\CountUrl.csproj.CoreCompileInputs.cache
+C:\Users\Dijital&Kafa\source\repos\CONSOLE\CountUrl\CountUrl\obj\Debug\net7.0\CountUrl.dll
+C:\Users\Dijital&Kafa\source\repos\CONSOLE\CountUrl\CountUrl\obj\Debug\net7.0\refint\CountUrl.dll
+C:\Users\Dijital&Kafa\source\repos\CONSOLE\CountUrl\CountUrl\obj\Debug\net7.0\CountUrl.pdb
+C:\Users\Dijital&Kafa\source\repos\CONSOLE\CountUrl\CountUrl\obj\Debug\net7.0\CountUrl.genruntimeconfig.cache
+C:\Users\Dijital&Kafa\source\repos\CONSOLE\CountUrl\CountUrl\obj\Debug\net7.0\ref\CountUrl.dll
